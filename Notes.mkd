@@ -1,0 +1,16 @@
+# Data
+A set of networks of HIV transmissions between people through: 
+- sexual
+- needle-sharing
+- social connections
+
+based on combining 8 datasets collected from 1988 to 2001. 
+Metadata includes test results of several diseases, as well as demographic variables such as age, ethnicity, and gender. 
+
+Networks come in two flavors: egodyads and altdyads. 
+
+**Egodyads** are the network among study-participants and their direct partners. 
+
+**Altdyads** are the network among people who are connected to the egodyad network. 
+
+All data contained in a single file, but individual networks can be extracted using the 'studynum' variable (see codebook).
